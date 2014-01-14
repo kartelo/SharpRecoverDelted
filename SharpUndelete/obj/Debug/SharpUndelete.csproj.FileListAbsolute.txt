@@ -1,0 +1,7 @@
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\obj\Debug\SharpUndelete.Properties.Resources.resources
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\obj\Debug\SharpUndelete.csproj.GenerateResource.Cache
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\bin\Debug\SharpUndelete.exe
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\bin\Debug\SharpUndelete.pdb
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\obj\Debug\SharpUndelete.exe
+C:\Users\DimitarV\Documents\Visual Studio 2008\Projects\SharpUndelete\SharpUndelete\obj\Debug\SharpUndelete.pdb
